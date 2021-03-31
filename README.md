@@ -1,6 +1,6 @@
 # prayer_test
 
-A new Flutter application.
+prayer app
 
 ## Getting Started
 
