@@ -1,6 +1,6 @@
 # prayer_test
 
-prayer app
+prayer simple app to test get Request in IOS Emulator 
 
 ## Getting Started
 
